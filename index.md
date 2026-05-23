@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "https://github.com/Yukie-Yu/Yukie-Yu.github.io/blob/main/Yukie.png" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
+<img src="https://Yukie-Yu.github.io/Yukie.png" class="floatpic" alt="Yukie Cuiwan Yu">
 
 <br>Here is **Cuiwan Yu** (Yukie, 余崔琬).<br>
 
@@ -29,7 +29,7 @@ layout: page
 
 ## News and Updates
 
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
+- **Nov 2026**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
