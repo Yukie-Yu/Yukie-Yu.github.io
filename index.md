@@ -4,11 +4,11 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="Hanlin Cai">
+<img src="{{ "/Yuike.png" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
 
-<br>Here is **Hanlin Cai** (Lance, 蔡汉霖).<br>
+<br>Here is **Cuiwan Yu** (Yukie, 余崔琬).<br>
 
-<br>I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
+<br>I am a PhD student in the Class of 2026 at the School of Journalism and Communication, Huazhong University of Science and Technology, where I am fortunate to be supervised by [Xianhong Chen](https://sjic.hust.edu.cn/info/1167/8352.htm), and advised by [Mingxin Zhang](https://sjic.hust.edu.cn/info/1168/8360.htm).
 
 <br>My research is supported by the Cambridge Trust Scholarship and China Scholarship Council. Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
