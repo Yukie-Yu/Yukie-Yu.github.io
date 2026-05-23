@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /cn/index.html
-title: 蔡汉霖的个人主页
+title: 余崔琬的个人主页
 ---
 
 ## 关于我
 
-<img src="{{ "/caihanlin.jpg" | relative_url }}" class="floatpic" alt="蔡汉霖">
+<img src="https://Yukie-Yu.github.io/Yukie.png" class="floatpic" alt="Yukie Cuiwan Yu">
 
 <br>首先感谢您的阅读。我是余崔琬，2002年生，安徽合肥人。
 
