@@ -13,9 +13,9 @@ title: Hobbies
 ## Public Speaking
 
 <div class="third">
-<img src="/images/PublicSpeaking1.JPG">
-<img src="/images/PublicSpeaking2.JPG">
-<img src="/images/PublicSpeaking3.JPG">
+<img src="/images/PublicSpeaking1.jpg">
+<img src="/images/PublicSpeaking2.jpg">
+<img src="/images/PublicSpeaking3.jpg">
 </div>
 
 <br>I served as a member of the chairperson's team for the Red Theory Study Group at Huazhong University of Science and Technology. I was the course director twice and delivered 17 micro-party lectures. I delivered a total of 32 micro-party speeches to over 1200 people. I was awarded the title of "**Advanced Individual in Theory Publicity**".
@@ -23,10 +23,11 @@ title: Hobbies
 ## Workshop
 
 <div class="third">
-<img src="/images/prelection1.JPG">
+<img src="/images/prelection1.jpg">
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div>
+
 <br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
