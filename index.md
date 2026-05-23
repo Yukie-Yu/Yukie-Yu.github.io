@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "https://yukie-yu.github.io/Yuike.PNG" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
+<img src="{{ "https://github.com/Yukie-Yu/Yukie-Yu.github.io/blob/main/Yukie.png" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
 
 <br>Here is **Cuiwan Yu** (Yukie, 余崔琬).<br>
 
@@ -20,9 +20,9 @@ layout: page
 
 ## Research Interests
 
-- Edge LLMs
-- LLM Networking
-- Attack, Defense, Resilience
+- Public Relations
+- Political Communication
+- Strategic Communications
 
 
 ---
