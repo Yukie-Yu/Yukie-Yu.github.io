@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 👋 About Me
+# About Me
 
 <img src="https://Yukie-Yu.github.io/Yukie.png" class="floatpic" alt="Yukie Cuiwan Yu">
 
