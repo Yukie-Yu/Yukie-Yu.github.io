@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/Yuike.png" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
+<img src="{{ "https://yukie-yu.github.io/Yuike.png" | relative_url }}" class="floatpic" alt="Yukie Cuiwan Yu">
 
 <br>Here is **Cuiwan Yu** (Yukie, 余崔琬).<br>
 
@@ -14,7 +14,7 @@ layout: page
 
 <br>Prior to joining HUST, I worked on wireless networks and cybersecurity under the guidance of [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
 
-<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
+<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **yucuiwan@hust.edu.cn**
 
 ---
 
