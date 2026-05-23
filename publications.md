@@ -10,7 +10,7 @@ title: Publications
 
 *The individuals listed below have profoundly shaped my research and personal development. Their invaluable contributions and guidance have greatly enriched all the work presented here.*
 
-- **Political Communication:** [Mingxin Zhang]([张明新](https://sjic.hust.edu.cn/info/1168/8360.htm))<br><br>
+- **Political Communication:** [Mingxin Zhang](https://sjic.hust.edu.cn/info/1168/8360.htm)<br><br>
 
 ----
 
