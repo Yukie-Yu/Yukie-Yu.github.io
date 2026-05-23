@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~~: corresponding author)
-
 ## Collaborators
 
 *The individuals listed below have profoundly shaped my research and personal development. Their invaluable contributions and guidance have greatly enriched all the work presented here.*
@@ -16,7 +14,7 @@ title: Publications
 
 ## Journal Paper
 
-- [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li~~, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- 《情感动员与框架强化：文物归国主题短视频的国族想象建构》<br>张明新, 余崔琬<br>《新闻爱好者》<br>
 
   <br>
 
